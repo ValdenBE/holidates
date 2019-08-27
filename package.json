@@ -1,0 +1,28 @@
+{
+  "name": "@valdenbe/holidates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValdenBE/pwned.git"
+  },
+  "author": "Valden",
+  "license": "ISC",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ValdenBE/pwned/issues"
+  },
+  "homepage": "https://github.com/ValdenBE/pwned#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "cli-progress": "^3.0.0",
+    "loadingbar": "^1.0.7",
+    "promise.bar": "^0.1.5"
+  }
+}
