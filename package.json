@@ -1,6 +1,6 @@
 {
   "name": "@valdenbe/holidates",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "dependencies": {
     "clear": "^0.1.0",
     "cli-progress": "^3.0.0",
+    "country-list": "^2.2.0",
     "loadingbar": "^1.0.7",
     "promise.bar": "^0.1.5"
   }
