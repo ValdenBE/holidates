@@ -1,6 +1,6 @@
 {
   "name": "@valdenbe/holidates",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/ValdenBE/holidates#readme",
   "dependencies": {
     "axios": "^0.19.0",
+    "boxen": "^4.1.0",
     "chalk": "^2.4.2",
     "clear": "^0.1.0",
     "country-list": "^2.2.0",
